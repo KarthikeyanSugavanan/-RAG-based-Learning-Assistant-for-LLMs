@@ -2,7 +2,7 @@
 
 🚀 **Advanced RAG System with RARE Framework for Enhanced Domain Knowledge Retrieval**
 
-## 📖 Overview
+## Overview
 
 The RAG-based Learning Assistant is a sophisticated Retrieval-Augmented Generation (RAG) system designed to address the limitations of traditional Large Language Models (LLMs) in domain-specific question answering. By combining external document retrieval with powerful language models, this system significantly reduces hallucinations and improves factual accuracy in specialized domains.
 
