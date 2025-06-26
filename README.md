@@ -6,7 +6,7 @@
 
 The RAG-based Learning Assistant is a sophisticated Retrieval-Augmented Generation (RAG) system designed to address the limitations of traditional Large Language Models (LLMs) in domain-specific question answering. By combining external document retrieval with powerful language models, this system significantly reduces hallucinations and improves factual accuracy in specialized domains.
 
-## 🎯 Key Features
+## 🎯Key Features
 
 ### 🔧 Advanced Architecture
 - **Hybrid Retrieval System**: FAISS for semantic similarity + DuckDB for SQL-powered metadata filtering
